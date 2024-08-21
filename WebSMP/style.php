@@ -1,0 +1,3 @@
+<?php
+    $logo="logo.png";
+?>
