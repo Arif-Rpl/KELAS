@@ -1,0 +1,89 @@
+.header {
+  position: relative;
+  display: inline-block;
+}
+
+.header img {
+  clip-path: inset(0px 0px 300px 0px);
+}
+
+.judul {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+  display: flex;
+}
+
+h4 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 60px;
+}
+
+.judul h3 {
+  margin-top: 50px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.judul h1 {
+  margin-bottom: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 50px;
+}
+ 
+.tombol {
+  background-color: blue;
+  border-radius: 5px;
+  padding: 15px 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(180%, -50%);
+  display: flex;
+}
+
+.tombol:hover {
+  background-color: black;
+}
+
+.kedua {
+  text-align: center;
+  transform: translate(0%, -400%);
+}
+
+.button {
+  background-color: black;
+  border-radius: 5px;
+  padding: 15px 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 120%);
+}
+
+.ketiga {
+  background-color: rgb(36, 36, 145);
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ketiga h1 {
+  color: white;
+}
+
+.ketiga h4 {
+  color: yellow;
+}
+
+.agama {
+  display: flex;
+  
+}
+
+.ketiga p {
+  
+}
