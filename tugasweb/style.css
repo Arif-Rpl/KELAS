@@ -1,0 +1,63 @@
+.container {
+    margin: 0;
+    padding: 0;
+}
+
+.logo img {
+    height: 150px;
+    width: 150px;
+    margin-left: 50px;
+}
+
+.nav ul {
+    display: flex;
+    gap: 20px;
+    margin-top: 60px;
+    margin-left: 500px;
+
+}
+
+.header {
+    display: flex;
+    background-color: black;
+}
+
+.sekolah {
+    margin-top: 35px;
+    margin-left: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+.Home {
+    background-color: aqua;
+}
+
+.Galeri {
+    background-color: red;
+}
+
+.Jadwal {
+    background-color: pink;
+}
+
+.Kontak {
+    background-color: yellow;
+}
+
+.Sejarah {
+    background-color: green;
+}
+
+.Kegiatan {
+    background-color: blueviolet;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
